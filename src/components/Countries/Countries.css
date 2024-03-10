@@ -1,0 +1,14 @@
+.Country-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.visited {
+    background-color: aqua;
+    color: black;
+}
+
+.flag-Container img {
+    width: 100px;
+}
